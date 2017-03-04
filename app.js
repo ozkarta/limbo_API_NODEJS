@@ -61,7 +61,7 @@ app.use('/api', errorHandlers.apiErrorHandler);
 //  mongoose connection
 mongoose.connect(process.env.MONGODB_URI || config.dbURL);
 
-let port =  process.env.$PORT || config.port ;
+let port = config.port ;
 
 let server = app.listen(port, () =>{
 	console.log('Limbo app is listening to ... ' +port);
