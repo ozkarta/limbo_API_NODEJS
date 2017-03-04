@@ -1,0 +1,4 @@
+Wed Mar 01 2017 00:23:05 GMT+0400 (+04)   ReferenceError: jobSearchCallback is not defined   
+Wed Mar 01 2017 00:44:05 GMT+0400 (+04)   TypeError: jobPost.findOne(...).popylate is not a function   
+Wed Mar 01 2017 00:44:37 GMT+0400 (+04)   TypeError: jobPost.findOne(...).popylate is not a function   
+Wed Mar 01 2017 00:44:46 GMT+0400 (+04)   TypeError: jobPost.findOne(...).popylate is not a function   

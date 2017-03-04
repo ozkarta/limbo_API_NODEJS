@@ -1,0 +1,74 @@
+Tue Jan 24 2017 22:36:50 GMT+0400 (+04)   Error: Failed to lookup view "../dist/index" in views directory "/home/ozkart/Desktop/NODEJS/limbo2/views"   
+Tue Jan 24 2017 22:36:50 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:37:57 GMT+0400 (+04)   Error: Failed to lookup view "../dist/index" in views directory "/home/ozkart/Desktop/NODEJS/limbo2/views"   
+Tue Jan 24 2017 22:37:57 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:38:51 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:39:22 GMT+0400 (+04)   TypeError: path must be absolute or specify root to res.sendFile   
+Tue Jan 24 2017 22:39:22 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:39:24 GMT+0400 (+04)   TypeError: path must be absolute or specify root to res.sendFile   
+Tue Jan 24 2017 22:39:24 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:40:54 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:40:54 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:41:15 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:41:16 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:41:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:41:39 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:42:44 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/index.html'   
+Tue Jan 24 2017 22:42:44 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:14 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:14 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:42 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:43 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:44 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:43:44 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:45:01 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:45:01 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:46:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:46:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:46:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:46:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:46:38 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 22:47:04 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:11:01 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/dist/index.html'   
+Tue Jan 24 2017 23:11:04 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/dist/index.html'   
+Tue Jan 24 2017 23:11:05 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/dist/index.html'   
+Tue Jan 24 2017 23:11:05 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/dist/index.html'   
+Tue Jan 24 2017 23:30:29 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:30:30 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:31:50 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:31:50 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:32:01 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:32:01 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:09 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:09 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:13 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:13 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:16 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:16 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:25 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:33:25 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:36:55 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:36:55 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:36:58 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:39:42 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:40:15 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:40:18 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:40:20 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:43:27 GMT+0400 (+04)   Error: ENOENT: no such file or directory, stat '/home/ozkart/Desktop/NODEJS/limbo2/angular/dist/index.html'   
+Tue Jan 24 2017 23:43:40 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:44:58 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:42 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:48 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:51 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:53 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:57 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:47:59 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:48:00 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:48:01 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:48:02 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:52:44 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:57:25 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:58:36 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:58:39 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:59:04 GMT+0400 (+04)   404 Page not found   
+Tue Jan 24 2017 23:59:23 GMT+0400 (+04)   404 Page not found   
