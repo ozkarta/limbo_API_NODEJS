@@ -523,7 +523,7 @@ module.exports.getJobWithId = function(req, res, next){
 
 
 module.exports.sendProposal = function(req, res, next){
-	//console.dir(req.body);
+	console.dir(req.body);
 	
 
 
@@ -542,7 +542,7 @@ module.exports.sendProposal = function(req, res, next){
 		}
 		if(job){
 			let proposal = new Proposal();
-			proposal.candidate = req.body.proposal.candidateID;
+			proposal.candidate = req.body.proposal.candidate.id;
 			proposal.price = req.body.proposal.price;
 			proposal.currency = req.body.proposal.currency;
 			proposal.duration = req.body.proposal.duration;
