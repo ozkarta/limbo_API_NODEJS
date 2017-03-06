@@ -239,7 +239,7 @@ function initJobPost(user,title,description,deadLine,budget,paymentType,projectT
 //______________________________________________________________
 function indipendentInit(){
 	Currency.find({}, function(err,res){
-		if(res.ength === 0){
+		if(res.length === 0){
 			
 				let cur = new Currency();
 				cur.country = 'Georgia';
