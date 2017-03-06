@@ -230,7 +230,7 @@ module.exports.updateJob = function (req, res, next) {
 			newJobPost.imageURLList = req.body.newJobPost.imageURLList;
 			newJobPost.atachmentList = req.body.newJobPost.atachmentList;
 
-			console.dir(newJobPost);
+			//console.dir(newJobPost);
 
 
 			newJobPost.save(function (err1, result) {
@@ -523,7 +523,7 @@ module.exports.getJobWithId = function(req, res, next){
 
 
 module.exports.sendProposal = function(req, res, next){
-	console.dir(req.body);
+	//console.dir(req.body);
 	
 
 
@@ -551,9 +551,11 @@ module.exports.sendProposal = function(req, res, next){
 			proposal.offerStatus = req.body.proposal.offerStatus;
 
 			proposal.save(function(err,proposalSaved){
+				console.dir(err);
 				if(proposalSaved){
 					job.proposals.push(proposalSaved)
 					job.save(function(err,jobSaved){
+						console.dir(err);
 						if(jobSaved){
 							return res.send({status:200,message:'proposal saved'});
 						}else{
